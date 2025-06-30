@@ -1,0 +1,8 @@
+1. Define normalization in DBMS.
+2. What is 2-phase locking?
+3. Explain concurrency control.
+4. Describe the advantages of distributed databases.
+5. Define deadlock and how to avoid it.
+6. What are different types of keys in DBMS?
+7. Explain relational algebra operations.
+8. What is SQL? Explain its types.
