@@ -1,0 +1,8 @@
+1. Define normalization in DBMS.
+2. What is indexing? Explain with example.
+3. What is 2-phase locking?
+4. Describe concurrency control techniques.
+5. Explain the importance of transaction management.
+6. Define deadlock and prevention strategies.
+7. What are different types of keys in DBMS?
+8. What is SQL and why is it used?
