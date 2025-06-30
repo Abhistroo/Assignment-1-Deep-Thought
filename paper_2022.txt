@@ -1,0 +1,8 @@
+1. What is 2-phase locking?
+2. Explain concurrency control.
+3. Define normalization in DBMS.
+4. Describe distributed databases and their uses.
+5. What is indexing in databases?
+6. Define deadlock and its handling techniques.
+7. Explain the concept of transactions.
+8. What are aggregate functions in SQL?
